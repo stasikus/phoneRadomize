@@ -1,0 +1,9 @@
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\bin\Debug\phoneRadomize.exe.config
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\bin\Debug\phoneRadomize.exe
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\bin\Debug\phoneRadomize.pdb
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.Form1.resources
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.Properties.Resources.resources
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.csproj.GenerateResource.Cache
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.exe
+c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.pdb
