@@ -7,3 +7,12 @@ c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\
 c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.csproj.GenerateResource.Cache
 c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.exe
 c:\users\stas\documents\visual studio 2012\Projects\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.pdb
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\bin\Debug\phoneRadomize.exe.config
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.exe
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.pdb
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\bin\Debug\phoneRadomize.exe
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\bin\Debug\phoneRadomize.pdb
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.csprojResolveAssemblyReference.cache
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.Form1.resources
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.Properties.Resources.resources
+C:\Users\s.o.kravchenko\Documents\GitHub\phoneRadomize\phoneRadomize\obj\Debug\phoneRadomize.csproj.GenerateResource.Cache
